@@ -2,7 +2,7 @@ BEGIN:VCARD
 VERSION:3.0
 N:Kuriyan;Jils;;;
 FN:Jils Kuriyan
-ORG:
+ORG:NMC ProVita International Medical Center
 ADR;TYPE=WORK:
 TITLE:Financial Analyst
 TEL;TYPE=CELL:+971585482660
@@ -11,10 +11,11 @@ TEL;TYPE=HOME:
 TEL;TYPE=MSG:+971585482660
 EMAIL;TYPE=WORK:jilskuriyan@gmail.com
 URL;TYPE=Digital Business Card:
-URL:
+URL:https://secdaddy.github.io/080120251319jilskurian/
 URL;TYPE=WhatsApp:https://wa.me/+971585482660
+URL;TYPE=Website:https://secdaddy.github.io/080120251319jilskurian/
 URL;TYPE=LinkedIn:https://linkedin.com/in/jilskuriyan
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
-UID:EnBizCard-100160278
+UID:EnBizCard-100023042
 END:VCARD
